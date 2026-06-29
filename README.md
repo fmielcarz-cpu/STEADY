@@ -2,15 +2,15 @@
 STEADY: Breaking the Cyberchondria CycleSTEADY is a digital health application designed to disrupt the maladaptive cycle of cyberchondria using Just-in-Time Adaptive Interventions (JITAI). Grounded in the Health Action Process Approach (HAPA), the app helps users bridge the intention-behavior gap, providing real-time support to manage health-related anxiety and compulsive symptom checking.  
 1. **The Problem**
 Cyberchondria is a common struggle where individuals engage in repetitive, anxiety-fueled online symptom searching. This behavior often leads to increased health anxiety and cognitive distress, creating a negative feedback loop that is difficult to break without external support.
-2. __The SolutionSTEADY__ acts as a digital companion that utilizes "if-then" coping planning to intervene exactly when the user needs it most.
+2. **The SolutionSTEADY** acts as a digital companion that utilizes "if-then" coping planning to intervene exactly when the user needs it most.
    * JITAI Approach: Delivers personalized interventions in the moment of vulnerability.
    * Cognitive Support: Reduces cognitive load by automating responses to anxiety triggers.
    * Reflective Journaling: Helps users process their anxiety, reducing information entropy.
-3. __Tech Stack__
+3. **Tech Stack**
    * Framework: React Native / Expo.
    * Architecture: Designed for secure, privacy-first data processing.
    * Logic: Based on proactive, data-driven modeling (combining active/passive user inputs).
-4. __Key Features__
+4. **Key Features**
    * Crisis Mode: An immediate intervention tool for high-anxiety moments.
    * Reflective Journaling: A feature to help users gain perspective and track progress.
    * Vulnerability Tracking: Monitors states of high-anxiety to trigger adaptive support.
